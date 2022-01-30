@@ -3163,11 +3163,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eduardo Pinheiro\\source\\repos\\CepHome\\smartHome\\smartHome.csproj",
+      "projectUniqueName": "C:\\Projects\\smart_home\\smartHome\\smartHome.csproj",
       "projectName": "smartHome",
-      "projectPath": "C:\\Users\\Eduardo Pinheiro\\source\\repos\\CepHome\\smartHome\\smartHome.csproj",
+      "projectPath": "C:\\Projects\\smart_home\\smartHome\\smartHome.csproj",
       "packagesPath": "C:\\Users\\Eduardo Pinheiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eduardo Pinheiro\\source\\repos\\CepHome\\smartHome\\obj\\",
+      "outputPath": "C:\\Projects\\smart_home\\smartHome\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iLJRQPsnyaRv52tLghqLlnTpx6Ef20HIDS/S5zw+XZNATCEXgHosfqOw8HUnv/wHnTBIyTE7XVrP3WGWW06X5A==",
+  "dgSpecHash": "CreGK2vd5Uit0zHPKgOalOYp3n87RKFdsbeueeiCF3AuzK3i6sI0V0yBqTpCBuoZwXRLDQxF+XZIPNopMLq+eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eduardo Pinheiro\\source\\repos\\CepHome\\CepHome\\CepHome.csproj",
+  "projectFilePath": "C:\\Projects\\smart_home\\CepHome\\CepHome.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eduardo Pinheiro\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Eduardo Pinheiro\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
